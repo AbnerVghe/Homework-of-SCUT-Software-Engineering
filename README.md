@@ -1,2 +1,2 @@
-# About code
-I will upload these days the moment I finish my trifles.
+## WHAT are the files?
+-homework of my COMP courses(more exactly, cpp courses).
